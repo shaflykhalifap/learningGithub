@@ -1,0 +1,15 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 6bb1d7c..1bd77bd 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -8,5 +8,9 @@[m
+ <body>[m
+     <h1>Ticket Tracker</h1>[m
+     <div>This project just for use case of learning github.</div>[m
+[32m+[m[32m    <div id ="footer">[m
+[32m+[m[32m        <p> ini contoh footer untuk latihan </p>[m
+[32m+[m[32m    </div>[m
+[32m+[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
